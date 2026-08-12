@@ -1,5 +1,5 @@
-# Project Title
-Formative Assessment 1, Distance between two points
+# Formative Assessment 1, Distance between two points
+
 ## Description
 My program solved for the distance between two points after the users input two pairs of (x and y).
 
