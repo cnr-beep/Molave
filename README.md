@@ -15,10 +15,6 @@ My program solved for the distance between two points after the users input two 
 - The second y value
 
 ## Sample Output
-Enter the first x value: 2
-Enter the first y value: 3
-Enter the second x value: 7
-Enter the second y value: 8
 The distance between points (2,3), and (7,8) is 7.07
 
 ## Author
